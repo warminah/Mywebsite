@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "website_backend": {
+      "main": "src/website_backend/main.mo",
+      "type": "motoko"
+    },
+    "website_frontend": {
+      "main": "src/website_frontend",
+      "type": "assets",
+      "source": [
+        "src/website_frontend/public/index.html",
+        "src/website_frontend/src/index.js"
+      ]
+    }
+  }
+}
