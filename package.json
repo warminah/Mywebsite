@@ -1,0 +1,27 @@
+{
+  "name": "my_website",
+  "version": "1.0.0",
+  "description": "Situs web sederhana di Internet Computer menggunakan React dan Motoko",
+  "main": "src/website_frontend/src/index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "vite": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0"
+  },
+  "keywords": [
+    "Internet Computer",
+    "React",
+    "Motoko",
+    "dApp"
+  ],
+  "author": "Nama Anda",
+  "license": "MIT"
+}
